@@ -1,0 +1,2 @@
+I understood the result of the exercise and learned to minimize lines of code, 
+but I sent mine unchanged as a form of command learning exercise

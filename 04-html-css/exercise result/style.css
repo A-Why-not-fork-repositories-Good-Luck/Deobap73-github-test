@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+}
+
+/* if we be evem mor clean we put this and delete in the sections
+
+ section p{
+  width: 50%;
+  margin: 20px auto;
+} */
+
+/* TOP: */
+.section-top {
+  border: 3px dotted purple;
+  margin: 20px 30px;
+  padding: 20px 25px;
+}
+
+.section-top p {
+  border: 1px solid grey;
+  width: 50%;
+  margin: 20px auto;
+}
+
+/* MIDDLE: */
+.section-middle {
+  border: 4px dashed pink;
+  margin: 30px 20px 20px;
+  padding: 10px 20px 30px;
+}
+
+.section-middle p {
+  border: 3px dashed orangered;
+  width: 50%;
+  margin: 20px auto;
+}
+
+/* BOTTOM: */
+.section-bottom {
+  border: 2px solid grey;
+  margin: 30px;
+  padding: 15px 20px 25px 30px;
+}
+
+.section-bottom p {
+  border: 3px dotted orangered;
+  width: 50%;
+  margin: 20px auto;
+}

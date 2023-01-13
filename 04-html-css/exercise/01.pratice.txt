@@ -1,0 +1,7 @@
+
+Each section should have their separate (different from each other) 
+borders, margins and paddings.
+
+The paragraphs should have their own borders, 
+be half the size (in width) of sections and be 
+horizontally centered inside the sections.v

@@ -1,0 +1,69 @@
+/* Grouping Selektor: */
+h2,
+h3,
+h4 {
+  color: red;
+}
+
+/* Combinator: */
+div p {
+  color: green;
+}
+
+/* Child Combinator: */
+main > p {
+  color: blue;
+}
+
+/* Adjacent sibling combinator: */
+h5 + p {
+  color: orange;
+}
+
+/* --------------- */
+
+/* Specificity: */
+h1#id-heading {
+  color: aqua;
+}
+
+h1.class-heading {
+  color: orange;
+}
+
+h1 {
+  color: red;
+}
+
+h1 {
+  color: blue;
+}
+
+/* Inheritence: */
+body {
+  font-family: sans-serif;
+}
+
+main {
+  font-family: fantasy;
+}
+
+/* DRY Principle: */
+/* Don't repeat yourself: */
+/* Bad Example: */
+h2 {
+  color: green;
+}
+h3 {
+  color: green;
+}
+h4 {
+  color: green;
+}
+
+/* Good Example: */
+h2,
+h3,
+h4 {
+  color: blue;
+}

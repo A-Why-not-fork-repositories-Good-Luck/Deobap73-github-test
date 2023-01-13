@@ -1,0 +1,83 @@
+.section-1 {
+  width: 600px;
+  height: 300px;
+
+  border: 2px solid red;
+
+  padding: 10px 20px;
+
+  margin: 10px 10px;
+
+ }
+
+.skydiving-paragraph-1 {
+  width: 300px;
+  height: 90px;
+  border: 2px solid rgb(143, 9, 9);
+
+  padding: 5px 15px;
+  margin: 5px auto;
+}
+.skydiving-paragraph-2 {
+  width: 300px;
+  height: 90px;
+  border: 2px solid rgb(113, 133, 13);
+
+  padding: 4px 3px 2px 5px;
+  margin: 10px auto;
+}
+
+.section-2 {
+  width: 600px;
+  height: 450px;
+
+  border: 2px solid rgb(33, 6, 140);
+
+  padding: 10px 20px;
+
+  margin: 10px;
+
+}
+
+.beginners-paragraph-1 {
+  width: 300px;
+  height: 90px;
+  border: 2px solid rgb(19, 81, 42);
+
+  padding: 40px 35px;
+  margin: 10px auto;
+}
+.beginners-paragraph-2 {
+  width: 300px;
+  height: 100px;
+  border: 2px solid rgb(110, 24, 93);
+
+  padding: 40px 35px;
+  margin: 10px auto;
+}
+
+.section-3 {
+  width: 460px;
+  height: 440px;
+
+  border: 2px solid rgb(0, 0, 0);
+
+  padding: 10px 20px;
+}
+
+.proflyers-paragraph-1 {
+  width: 230px;
+  height: 50px;
+  border: 2px solid rgb(185, 97, 8);
+
+  padding: 40px 35px;
+  margin: 10px auto;
+}
+.proflyers-paragraph-2 {
+  width: 230px;
+  height: 80px;
+  border: 2px solid rgb(7, 115, 132);
+
+  padding: 40px 35px 12px 5px;
+  margin: 10px auto;
+}
